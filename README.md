@@ -5,6 +5,6 @@ This Website uses HTML and Advanced CSS to render a beautiful,eye-catchy front-e
  - A beautiful custom landing page for a Travel website using HTML,CSS and javascript.
  - Video background
  
- ![alt text](https://github.com/[UdoiGogoi-github12345]/[Travel]/blob/[Travel]/Screenshot(162).jpg?raw=true)
+ ![alt text](https://github.com/[UdoiGogoi-github12345]/[Travel]/blob/[Travel]/Screenshot (162).png?raw=true)
  
  ## Thank You!!!
